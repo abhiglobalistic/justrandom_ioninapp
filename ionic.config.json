@@ -1,5 +1,7 @@
 {
   "name": "justrandom",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
